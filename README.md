@@ -2,6 +2,8 @@
 
 ### Full Stack Developer | B.Tech IT | Problem Solver
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=false&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;React.js+%2B+Node.js+%2B+REST+APIs;Interactive+3D+web+experiences+with+Three.js;200%2B+DSA+problems+solved)](https://git.io/typing-svg)
+
 I build scalable full-stack applications, interactive 3D web experiences, and data-driven interfaces. My work spans React.js/Node.js architectures, REST API design, and real-time visualization systems — backed by strong fundamentals in Data Structures & Algorithms.
 
 <p align="left">
@@ -143,12 +145,14 @@ Received incubation support from IIT Mandi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsingh760018-collab&hide_border=true&theme=default" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=yuvrajsingh760018-collab&hide_border=true&theme=default" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuvrajsingh760018-collab&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
+
+> ℹ️ The public `github-readme-stats` instance can occasionally rate-limit under heavy traffic. If a card ever shows an error, the fix is to fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and self-host it on your own Vercel deployment — swap the domain in the image URLs above with your deployment URL.
 
 ---
 
